@@ -5,7 +5,6 @@
 
 A Jupyter Notebook and an HTML app to display information about the [Opera Network](http://mozart.diei.unipg.it/gdcontest/contest2022/topics.html) dataset.
 
----
 
 ## Introduction
 
